@@ -3,3 +3,5 @@ go_project1.exe
 
 # Ignore our data file
 .todos.json
+
+.gitignore
