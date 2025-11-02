@@ -18,7 +18,7 @@ To get started, you'll need to have Go installed on your system (version 1.25+ r
 
 Clone this repository:
 
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone [https://github.com/Zaidnaz/go_lang_todo](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
 
 
